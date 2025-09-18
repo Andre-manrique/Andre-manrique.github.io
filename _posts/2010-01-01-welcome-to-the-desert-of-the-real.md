@@ -1,12 +1,12 @@
 ---
 date: 2025-09-17 23:48:05
 layout: post
-title: Welcome to my website
+title: Welcome
 subtitle: 'pagina de mi taller de computo: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
- https://i.pinimg.com/originals/88/6f/fb/886ffb5cc47e8a4ed14d4fb803fcd935.jpg
+
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
 tags:
