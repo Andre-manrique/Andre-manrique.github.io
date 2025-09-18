@@ -2,7 +2,8 @@
 date: 2025-09-17 23:48:05
 layout: post
 title: Welcome
-subtitle: 'pagina de mi taller de computo: >-
+subtitle: 'pagina de mi taller de computo'
+description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
